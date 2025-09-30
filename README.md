@@ -1,2 +1,2 @@
-# Tracking-human-hand-and-pose-using-opencv
-This project includes hand tracking
+# Hand tracking
+This project tracks the hands shown on the webcam.
